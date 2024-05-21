@@ -4,7 +4,7 @@ integrations-version = "v0.152.0-dev.12"
 
 [YouTube]
 app-name = "YouTube"
-build-mode = "module"
+build-mode = "both"
 included-patches = "'Force disable Shorts dim' 'Force hide animated button background' 'Force hide player buttons background' 'MaterialYou'"
 excluded-patches = "'Enable debug logging'"
 version = "19.16.39"
